@@ -1,0 +1,234 @@
+[2025-05-07 02:07:55,681] [INFO] [real_accelerator.py:239:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-05-07 02:07:55,882] [INFO] [real_accelerator.py:239:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-05-07 02:07:55,993] [INFO] [real_accelerator.py:239:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-05-07 02:07:55,994] [INFO] [real_accelerator.py:239:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[92mRank 1 | Step 0 | Forward Time: 1784.17 ms | Backward Time: 3053.26 ms  | Loss: 5.5076 | Iteration Time: 6016.34 ms | AR Time: 891.84 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 0 | Forward Time: 1778.21 ms | Backward Time: 3077.03 ms  | Loss: 6.2920 | Iteration Time: 6899.36 ms | AR Time: 1753.16 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 0 | Forward Time: 1785.29 ms | Backward Time: 3062.41 ms  | Loss: 6.2581 | Iteration Time: 6591.03 ms | AR Time: 1451.98 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 0 | Forward Time: 1794.39 ms | Backward Time: 3051.45 ms  | Loss: 5.8359 | Iteration Time: 6140.05 ms | AR Time: 1002.45 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 1 | Forward Time: 1499.21 ms | Backward Time: 3032.68 ms  | Loss: 5.3932 | Iteration Time: 4815.84 ms | AR Time: 117.94 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 1 | Forward Time: 1492.94 ms | Backward Time: 3019.35 ms  | Loss: 5.8435 | Iteration Time: 4814.49 ms | AR Time: 136.21 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 1 | Forward Time: 1489.86 ms | Backward Time: 3018.17 ms  | Loss: 6.1042 | Iteration Time: 4820.59 ms | AR Time: 146.46 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 1 | Forward Time: 1489.28 ms | Backward Time: 3016.58 ms  | Loss: 5.9158 | Iteration Time: 4813.50 ms | AR Time: 141.09 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 2 | Forward Time: 1492.03 ms | Backward Time: 3024.58 ms  | Loss: 1.1410 | Iteration Time: 4819.62 ms | AR Time: 137.20 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 2 | Forward Time: 1498.81 ms | Backward Time: 3037.20 ms  | Loss: 0.9549 | Iteration Time: 4819.97 ms | AR Time: 118.06 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 2 | Forward Time: 1490.46 ms | Backward Time: 3023.01 ms  | Loss: 1.1066 | Iteration Time: 4818.95 ms | AR Time: 139.45 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 2 | Forward Time: 1487.17 ms | Backward Time: 3020.98 ms  | Loss: 0.8840 | Iteration Time: 4819.37 ms | AR Time: 145.17 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 3 | Forward Time: 1489.77 ms | Backward Time: 3025.64 ms  | Loss: 0.5028 | Iteration Time: 4822.71 ms | AR Time: 142.01 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 3 | Forward Time: 1491.16 ms | Backward Time: 3024.98 ms  | Loss: 0.4670 | Iteration Time: 4823.34 ms | AR Time: 141.84 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 3 | Forward Time: 1498.58 ms | Backward Time: 3039.13 ms  | Loss: 0.4259 | Iteration Time: 4822.48 ms | AR Time: 119.39 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 3 | Forward Time: 1487.43 ms | Backward Time: 3021.18 ms  | Loss: 0.4345 | Iteration Time: 4822.80 ms | AR Time: 148.34 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 4 | Forward Time: 1491.11 ms | Backward Time: 3025.70 ms  | Loss: 0.4496 | Iteration Time: 4822.20 ms | AR Time: 139.99 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 4 | Forward Time: 1498.45 ms | Backward Time: 3038.27 ms  | Loss: 0.3895 | Iteration Time: 4821.92 ms | AR Time: 119.75 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 4 | Forward Time: 1489.94 ms | Backward Time: 3024.53 ms  | Loss: 0.3187 | Iteration Time: 4822.24 ms | AR Time: 142.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 4 | Forward Time: 1487.47 ms | Backward Time: 3022.74 ms  | Loss: 0.3728 | Iteration Time: 4821.38 ms | AR Time: 145.32 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 5 | Forward Time: 1498.56 ms | Backward Time: 3038.75 ms  | Loss: 0.4086 | Iteration Time: 4820.29 ms | AR Time: 117.55 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 5 | Forward Time: 1490.63 ms | Backward Time: 3028.10 ms  | Loss: 0.3226 | Iteration Time: 4820.59 ms | AR Time: 136.21 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 5 | Forward Time: 1490.03 ms | Backward Time: 3025.32 ms  | Loss: 0.4607 | Iteration Time: 4820.62 ms | AR Time: 139.45 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 5 | Forward Time: 1488.58 ms | Backward Time: 3024.25 ms  | Loss: 0.2635 | Iteration Time: 4821.50 ms | AR Time: 141.88 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 6 | Forward Time: 1489.69 ms | Backward Time: 3024.81 ms  | Loss: 0.2912 | Iteration Time: 4820.42 ms | AR Time: 140.42 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 6 | Forward Time: 1498.23 ms | Backward Time: 3039.71 ms  | Loss: 0.2488 | Iteration Time: 4821.25 ms | AR Time: 117.69 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 6 | Forward Time: 1487.82 ms | Backward Time: 3022.73 ms  | Loss: 0.5667 | Iteration Time: 4818.64 ms | AR Time: 142.29 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 6 | Forward Time: 1490.64 ms | Backward Time: 3028.79 ms  | Loss: 0.3475 | Iteration Time: 4821.58 ms | AR Time: 136.30 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 7 | Forward Time: 1498.31 ms | Backward Time: 3040.05 ms  | Loss: 0.2860 | Iteration Time: 4821.03 ms | AR Time: 117.46 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 7 | Forward Time: 1489.37 ms | Backward Time: 3022.99 ms  | Loss: 0.3631 | Iteration Time: 4821.40 ms | AR Time: 143.62 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 7 | Forward Time: 1487.25 ms | Backward Time: 3022.65 ms  | Loss: 0.2827 | Iteration Time: 4820.69 ms | AR Time: 145.11 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 7 | Forward Time: 1490.99 ms | Backward Time: 3028.66 ms  | Loss: 0.2959 | Iteration Time: 4821.39 ms | AR Time: 135.36 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 8 | Forward Time: 1499.44 ms | Backward Time: 3042.19 ms  | Loss: 0.2209 | Iteration Time: 4824.69 ms | AR Time: 117.57 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 8 | Forward Time: 1490.03 ms | Backward Time: 3023.71 ms  | Loss: 0.5110 | Iteration Time: 4824.65 ms | AR Time: 145.37 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 8 | Forward Time: 1490.72 ms | Backward Time: 3029.07 ms  | Loss: 0.3309 | Iteration Time: 4824.03 ms | AR Time: 138.34 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 8 | Forward Time: 1486.95 ms | Backward Time: 3020.91 ms  | Loss: 0.2372 | Iteration Time: 4825.38 ms | AR Time: 151.31 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 9 | Forward Time: 1490.43 ms | Backward Time: 3025.15 ms  | Loss: 0.2830 | Iteration Time: 4821.22 ms | AR Time: 140.21 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 9 | Forward Time: 1487.10 ms | Backward Time: 3022.15 ms  | Loss: 0.2791 | Iteration Time: 4820.35 ms | AR Time: 145.38 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 9 | Forward Time: 1490.90 ms | Backward Time: 3030.52 ms  | Loss: 0.3339 | Iteration Time: 4820.99 ms | AR Time: 133.71 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 9 | Forward Time: 1498.13 ms | Backward Time: 3040.11 ms  | Loss: 0.5258 | Iteration Time: 4821.67 ms | AR Time: 117.43 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 10 | Forward Time: 1498.45 ms | Backward Time: 3039.59 ms  | Loss: 0.2443 | Iteration Time: 4820.82 ms | AR Time: 117.45 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 10 | Forward Time: 1490.02 ms | Backward Time: 3024.97 ms  | Loss: 0.1983 | Iteration Time: 4821.87 ms | AR Time: 141.41 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 10 | Forward Time: 1491.02 ms | Backward Time: 3029.31 ms  | Loss: 0.3388 | Iteration Time: 4821.46 ms | AR Time: 135.60 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 10 | Forward Time: 1486.63 ms | Backward Time: 3021.23 ms  | Loss: 0.2484 | Iteration Time: 4821.83 ms | AR Time: 148.11 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 11 | Forward Time: 1490.09 ms | Backward Time: 3027.65 ms  | Loss: 0.1963 | Iteration Time: 4820.04 ms | AR Time: 136.76 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 11 | Forward Time: 1486.92 ms | Backward Time: 3020.91 ms  | Loss: 0.2487 | Iteration Time: 4819.62 ms | AR Time: 146.16 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 11 | Forward Time: 1497.93 ms | Backward Time: 3039.67 ms  | Loss: 0.2330 | Iteration Time: 4820.63 ms | AR Time: 117.43 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 11 | Forward Time: 1489.62 ms | Backward Time: 3024.67 ms  | Loss: 0.3147 | Iteration Time: 4820.98 ms | AR Time: 140.68 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 12 | Forward Time: 1486.80 ms | Backward Time: 3021.76 ms  | Loss: 0.2515 | Iteration Time: 4820.16 ms | AR Time: 146.15 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 12 | Forward Time: 1490.02 ms | Backward Time: 3025.08 ms  | Loss: 0.3771 | Iteration Time: 4819.49 ms | AR Time: 138.80 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 12 | Forward Time: 1498.46 ms | Backward Time: 3038.96 ms  | Loss: 0.3471 | Iteration Time: 4820.27 ms | AR Time: 117.20 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 12 | Forward Time: 1490.09 ms | Backward Time: 3030.01 ms  | Loss: 0.2060 | Iteration Time: 4821.15 ms | AR Time: 135.10 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 13 | Forward Time: 1497.73 ms | Backward Time: 3038.68 ms  | Loss: 0.2929 | Iteration Time: 4818.84 ms | AR Time: 117.23 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 13 | Forward Time: 1486.40 ms | Backward Time: 3021.07 ms  | Loss: 0.2235 | Iteration Time: 4819.10 ms | AR Time: 146.16 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 13 | Forward Time: 1490.08 ms | Backward Time: 3024.76 ms  | Loss: 0.1976 | Iteration Time: 4819.70 ms | AR Time: 139.16 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 13 | Forward Time: 1490.45 ms | Backward Time: 3033.87 ms  | Loss: 0.2515 | Iteration Time: 4819.30 ms | AR Time: 129.27 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 14 | Forward Time: 1497.33 ms | Backward Time: 3039.03 ms  | Loss: 0.2179 | Iteration Time: 4819.19 ms | AR Time: 117.65 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 14 | Forward Time: 1489.88 ms | Backward Time: 3033.68 ms  | Loss: 0.3240 | Iteration Time: 4818.59 ms | AR Time: 129.49 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 14 | Forward Time: 1489.59 ms | Backward Time: 3025.17 ms  | Loss: 0.2807 | Iteration Time: 4818.82 ms | AR Time: 138.48 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 14 | Forward Time: 1486.47 ms | Backward Time: 3021.33 ms  | Loss: 0.3032 | Iteration Time: 4820.53 ms | AR Time: 146.35 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 15 | Forward Time: 1497.22 ms | Backward Time: 3038.90 ms  | Loss: 0.2996 | Iteration Time: 4818.69 ms | AR Time: 117.30 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 15 | Forward Time: 1490.44 ms | Backward Time: 3024.13 ms  | Loss: 0.1977 | Iteration Time: 4818.24 ms | AR Time: 138.18 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 15 | Forward Time: 1489.67 ms | Backward Time: 3035.35 ms  | Loss: 0.2595 | Iteration Time: 4818.39 ms | AR Time: 127.78 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 15 | Forward Time: 1488.89 ms | Backward Time: 3022.88 ms  | Loss: 0.2608 | Iteration Time: 4817.66 ms | AR Time: 139.98 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 16 | Forward Time: 1489.32 ms | Backward Time: 3036.80 ms  | Loss: 0.2805 | Iteration Time: 4818.03 ms | AR Time: 126.45 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 16 | Forward Time: 1489.84 ms | Backward Time: 3023.96 ms  | Loss: 0.2045 | Iteration Time: 4818.15 ms | AR Time: 138.81 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 16 | Forward Time: 1497.44 ms | Backward Time: 3037.98 ms  | Loss: 0.2616 | Iteration Time: 4818.57 ms | AR Time: 117.26 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 16 | Forward Time: 1486.77 ms | Backward Time: 3021.63 ms  | Loss: 0.2307 | Iteration Time: 4817.54 ms | AR Time: 143.33 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 17 | Forward Time: 1490.17 ms | Backward Time: 3035.65 ms  | Loss: 0.1747 | Iteration Time: 4819.97 ms | AR Time: 128.72 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 17 | Forward Time: 1489.86 ms | Backward Time: 3025.65 ms  | Loss: 0.2192 | Iteration Time: 4819.60 ms | AR Time: 138.62 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 17 | Forward Time: 1486.50 ms | Backward Time: 3021.52 ms  | Loss: 0.2140 | Iteration Time: 4819.09 ms | AR Time: 145.61 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 17 | Forward Time: 1497.62 ms | Backward Time: 3038.79 ms  | Loss: 0.2467 | Iteration Time: 4819.47 ms | AR Time: 117.49 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 18 | Forward Time: 1497.13 ms | Backward Time: 3038.95 ms  | Loss: 0.3934 | Iteration Time: 4818.92 ms | AR Time: 117.50 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 18 | Forward Time: 1488.60 ms | Backward Time: 3038.77 ms  | Loss: 0.2238 | Iteration Time: 4819.80 ms | AR Time: 126.72 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 18 | Forward Time: 1489.60 ms | Backward Time: 3023.95 ms  | Loss: 0.2089 | Iteration Time: 4819.59 ms | AR Time: 140.34 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 18 | Forward Time: 1486.93 ms | Backward Time: 3022.75 ms  | Loss: 0.2936 | Iteration Time: 4819.73 ms | AR Time: 144.16 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 19 | Forward Time: 1496.83 ms | Backward Time: 3038.13 ms  | Loss: 0.2064 | Iteration Time: 4817.46 ms | AR Time: 117.18 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 19 | Forward Time: 1488.41 ms | Backward Time: 3022.41 ms  | Loss: 0.2201 | Iteration Time: 4817.18 ms | AR Time: 140.88 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 19 | Forward Time: 1486.81 ms | Backward Time: 3021.01 ms  | Loss: 0.3555 | Iteration Time: 4817.13 ms | AR Time: 143.38 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 19 | Forward Time: 1488.97 ms | Backward Time: 3034.51 ms  | Loss: 0.1517 | Iteration Time: 4817.72 ms | AR Time: 128.29 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 20 | Forward Time: 1488.66 ms | Backward Time: 3023.90 ms  | Loss: 0.2177 | Iteration Time: 4818.37 ms | AR Time: 140.49 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 20 | Forward Time: 1486.69 ms | Backward Time: 3021.14 ms  | Loss: 0.2000 | Iteration Time: 4817.90 ms | AR Time: 144.67 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 20 | Forward Time: 1489.10 ms | Backward Time: 3036.83 ms  | Loss: 0.1275 | Iteration Time: 4817.92 ms | AR Time: 126.41 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 20 | Forward Time: 1497.00 ms | Backward Time: 3038.98 ms  | Loss: 0.2986 | Iteration Time: 4819.04 ms | AR Time: 117.10 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 21 | Forward Time: 1488.73 ms | Backward Time: 3034.89 ms  | Loss: 0.1957 | Iteration Time: 4818.91 ms | AR Time: 129.81 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 21 | Forward Time: 1489.61 ms | Backward Time: 3022.68 ms  | Loss: 0.1805 | Iteration Time: 4818.93 ms | AR Time: 141.16 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 21 | Forward Time: 1497.44 ms | Backward Time: 3037.83 ms  | Loss: 0.2607 | Iteration Time: 4818.39 ms | AR Time: 117.62 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 21 | Forward Time: 1486.42 ms | Backward Time: 3021.12 ms  | Loss: 0.2120 | Iteration Time: 4819.15 ms | AR Time: 145.73 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 22 | Forward Time: 1497.19 ms | Backward Time: 3038.37 ms  | Loss: 0.2185 | Iteration Time: 4818.49 ms | AR Time: 117.51 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 22 | Forward Time: 1488.88 ms | Backward Time: 3039.92 ms  | Loss: 0.3538 | Iteration Time: 4818.65 ms | AR Time: 124.48 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 22 | Forward Time: 1490.23 ms | Backward Time: 3024.64 ms  | Loss: 0.3214 | Iteration Time: 4818.65 ms | AR Time: 138.32 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 22 | Forward Time: 1486.74 ms | Backward Time: 3021.65 ms  | Loss: 0.2266 | Iteration Time: 4818.04 ms | AR Time: 143.74 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 23 | Forward Time: 1497.30 ms | Backward Time: 3038.95 ms  | Loss: 0.1699 | Iteration Time: 4818.65 ms | AR Time: 117.14 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 23 | Forward Time: 1489.36 ms | Backward Time: 3024.44 ms  | Loss: 0.2222 | Iteration Time: 4818.87 ms | AR Time: 139.61 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 23 | Forward Time: 1488.68 ms | Backward Time: 3040.12 ms  | Loss: 0.3017 | Iteration Time: 4819.13 ms | AR Time: 124.76 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 23 | Forward Time: 1486.53 ms | Backward Time: 3022.21 ms  | Loss: 0.2139 | Iteration Time: 4819.19 ms | AR Time: 144.33 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 24 | Forward Time: 1497.46 ms | Backward Time: 3036.89 ms  | Loss: 0.1546 | Iteration Time: 4816.97 ms | AR Time: 117.30 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 24 | Forward Time: 1489.43 ms | Backward Time: 3024.13 ms  | Loss: 0.2096 | Iteration Time: 4816.86 ms | AR Time: 137.71 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 24 | Forward Time: 1489.20 ms | Backward Time: 3037.43 ms  | Loss: 0.1791 | Iteration Time: 4816.86 ms | AR Time: 124.50 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 24 | Forward Time: 1486.77 ms | Backward Time: 3023.02 ms  | Loss: 0.2493 | Iteration Time: 4815.98 ms | AR Time: 140.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 25 | Forward Time: 1488.69 ms | Backward Time: 3024.87 ms  | Loss: 0.2438 | Iteration Time: 4816.60 ms | AR Time: 137.42 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 25 | Forward Time: 1488.83 ms | Backward Time: 3039.42 ms  | Loss: 0.2155 | Iteration Time: 4816.56 ms | AR Time: 122.76 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 25 | Forward Time: 1496.71 ms | Backward Time: 3037.48 ms  | Loss: 0.1528 | Iteration Time: 4817.00 ms | AR Time: 117.25 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 25 | Forward Time: 1487.09 ms | Backward Time: 3021.54 ms  | Loss: 0.2884 | Iteration Time: 4816.15 ms | AR Time: 141.90 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 26 | Forward Time: 1486.34 ms | Backward Time: 3022.35 ms  | Loss: 0.2193 | Iteration Time: 4819.40 ms | AR Time: 145.35 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 26 | Forward Time: 1488.99 ms | Backward Time: 3025.56 ms  | Loss: 0.2125 | Iteration Time: 4819.54 ms | AR Time: 139.58 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 26 | Forward Time: 1497.16 ms | Backward Time: 3039.63 ms  | Loss: 0.1491 | Iteration Time: 4819.46 ms | AR Time: 117.18 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 26 | Forward Time: 1488.68 ms | Backward Time: 3042.26 ms  | Loss: 0.2764 | Iteration Time: 4819.90 ms | AR Time: 123.24 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 27 | Forward Time: 1486.26 ms | Backward Time: 3021.71 ms  | Loss: 0.1136 | Iteration Time: 4817.67 ms | AR Time: 144.27 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 27 | Forward Time: 1497.31 ms | Backward Time: 3037.41 ms  | Loss: 0.1713 | Iteration Time: 4817.49 ms | AR Time: 117.30 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 27 | Forward Time: 1489.36 ms | Backward Time: 3023.52 ms  | Loss: 0.2230 | Iteration Time: 4817.65 ms | AR Time: 139.08 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 27 | Forward Time: 1488.72 ms | Backward Time: 3039.20 ms  | Loss: 0.1781 | Iteration Time: 4817.34 ms | AR Time: 123.74 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 28 | Forward Time: 1497.51 ms | Backward Time: 3037.65 ms  | Loss: 0.1708 | Iteration Time: 4817.75 ms | AR Time: 117.19 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 28 | Forward Time: 1486.26 ms | Backward Time: 3021.01 ms  | Loss: 0.1894 | Iteration Time: 4817.99 ms | AR Time: 145.27 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 28 | Forward Time: 1488.52 ms | Backward Time: 3040.66 ms  | Loss: 0.2506 | Iteration Time: 4817.75 ms | AR Time: 122.99 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 28 | Forward Time: 1489.55 ms | Backward Time: 3025.15 ms  | Loss: 0.2764 | Iteration Time: 4817.98 ms | AR Time: 137.56 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 29 | Forward Time: 1486.35 ms | Backward Time: 3020.36 ms  | Loss: 0.1535 | Iteration Time: 4818.42 ms | AR Time: 146.36 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 29 | Forward Time: 1489.49 ms | Backward Time: 3024.79 ms  | Loss: 0.4449 | Iteration Time: 4817.93 ms | AR Time: 138.20 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 29 | Forward Time: 1497.50 ms | Backward Time: 3038.13 ms  | Loss: 0.1809 | Iteration Time: 4818.37 ms | AR Time: 117.29 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 29 | Forward Time: 1488.95 ms | Backward Time: 3040.21 ms  | Loss: 0.1796 | Iteration Time: 4818.35 ms | AR Time: 123.58 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 30 | Forward Time: 1497.33 ms | Backward Time: 3037.94 ms  | Loss: 0.1830 | Iteration Time: 4817.82 ms | AR Time: 117.20 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 30 | Forward Time: 1486.14 ms | Backward Time: 3020.87 ms  | Loss: 0.2748 | Iteration Time: 4818.21 ms | AR Time: 145.71 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 30 | Forward Time: 1489.58 ms | Backward Time: 3024.15 ms  | Loss: 0.1793 | Iteration Time: 4818.22 ms | AR Time: 139.00 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 30 | Forward Time: 1488.62 ms | Backward Time: 3039.80 ms  | Loss: 0.3153 | Iteration Time: 4818.19 ms | AR Time: 124.15 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 31 | Forward Time: 1497.24 ms | Backward Time: 3038.78 ms  | Loss: 0.2478 | Iteration Time: 4818.60 ms | AR Time: 117.21 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 31 | Forward Time: 1486.41 ms | Backward Time: 3021.50 ms  | Loss: 0.2106 | Iteration Time: 4818.67 ms | AR Time: 145.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 31 | Forward Time: 1488.81 ms | Backward Time: 3041.26 ms  | Loss: 0.1900 | Iteration Time: 4818.67 ms | AR Time: 123.02 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 31 | Forward Time: 1489.65 ms | Backward Time: 3023.93 ms  | Loss: 0.2705 | Iteration Time: 4818.64 ms | AR Time: 139.49 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 32 | Forward Time: 1486.20 ms | Backward Time: 3021.97 ms  | Loss: 0.3787 | Iteration Time: 4816.99 ms | AR Time: 143.31 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 32 | Forward Time: 1497.19 ms | Backward Time: 3037.31 ms  | Loss: 0.2755 | Iteration Time: 4817.41 ms | AR Time: 117.17 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 32 | Forward Time: 1489.69 ms | Backward Time: 3025.11 ms  | Loss: 0.2017 | Iteration Time: 4816.97 ms | AR Time: 136.45 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 32 | Forward Time: 1488.93 ms | Backward Time: 3043.36 ms  | Loss: 0.1357 | Iteration Time: 4817.17 ms | AR Time: 119.09 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 33 | Forward Time: 1497.15 ms | Backward Time: 3036.64 ms  | Loss: 0.2044 | Iteration Time: 4816.50 ms | AR Time: 117.36 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 33 | Forward Time: 1486.31 ms | Backward Time: 3020.35 ms  | Loss: 0.1660 | Iteration Time: 4817.02 ms | AR Time: 145.04 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 33 | Forward Time: 1488.93 ms | Backward Time: 3025.24 ms  | Loss: 0.2696 | Iteration Time: 4816.66 ms | AR Time: 136.93 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 33 | Forward Time: 1489.24 ms | Backward Time: 3043.36 ms  | Loss: 0.1891 | Iteration Time: 4816.79 ms | AR Time: 118.49 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 34 | Forward Time: 1486.32 ms | Backward Time: 3021.32 ms  | Loss: 0.3427 | Iteration Time: 4819.18 ms | AR Time: 146.10 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 34 | Forward Time: 1497.17 ms | Backward Time: 3039.23 ms  | Loss: 0.1821 | Iteration Time: 4819.07 ms | AR Time: 117.23 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 34 | Forward Time: 1488.66 ms | Backward Time: 3042.56 ms  | Loss: 0.2430 | Iteration Time: 4818.78 ms | AR Time: 121.86 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 34 | Forward Time: 1489.44 ms | Backward Time: 3024.94 ms  | Loss: 0.2776 | Iteration Time: 4819.01 ms | AR Time: 138.83 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 35 | Forward Time: 1497.20 ms | Backward Time: 3035.96 ms  | Loss: 0.3021 | Iteration Time: 4815.62 ms | AR Time: 117.22 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 35 | Forward Time: 1486.31 ms | Backward Time: 3020.45 ms  | Loss: 0.1811 | Iteration Time: 4815.90 ms | AR Time: 143.83 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 35 | Forward Time: 1489.32 ms | Backward Time: 3024.05 ms  | Loss: 0.1413 | Iteration Time: 4815.73 ms | AR Time: 136.76 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 35 | Forward Time: 1488.54 ms | Backward Time: 3039.56 ms  | Loss: 0.3712 | Iteration Time: 4816.08 ms | AR Time: 122.17 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 36 | Forward Time: 1497.29 ms | Backward Time: 3037.91 ms  | Loss: 0.2424 | Iteration Time: 4818.40 ms | AR Time: 117.77 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 36 | Forward Time: 1489.41 ms | Backward Time: 3025.49 ms  | Loss: 0.2221 | Iteration Time: 4818.08 ms | AR Time: 137.70 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 36 | Forward Time: 1486.31 ms | Backward Time: 3019.75 ms  | Loss: 0.1580 | Iteration Time: 4818.25 ms | AR Time: 146.71 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 36 | Forward Time: 1488.78 ms | Backward Time: 3044.36 ms  | Loss: 0.2392 | Iteration Time: 4818.11 ms | AR Time: 119.25 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 37 | Forward Time: 1486.35 ms | Backward Time: 3021.89 ms  | Loss: 0.2051 | Iteration Time: 4817.72 ms | AR Time: 143.89 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 37 | Forward Time: 1489.32 ms | Backward Time: 3025.30 ms  | Loss: 0.3917 | Iteration Time: 4817.79 ms | AR Time: 137.56 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 37 | Forward Time: 1497.10 ms | Backward Time: 3037.34 ms  | Loss: 0.1243 | Iteration Time: 4817.66 ms | AR Time: 117.51 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 37 | Forward Time: 1488.95 ms | Backward Time: 3042.68 ms  | Loss: 0.2457 | Iteration Time: 4817.85 ms | AR Time: 120.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 38 | Forward Time: 1497.67 ms | Backward Time: 3037.94 ms  | Loss: 0.3012 | Iteration Time: 4818.64 ms | AR Time: 117.52 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 38 | Forward Time: 1489.90 ms | Backward Time: 3024.91 ms  | Loss: 0.2052 | Iteration Time: 4818.91 ms | AR Time: 138.62 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 38 | Forward Time: 1486.39 ms | Backward Time: 3025.55 ms  | Loss: 0.2069 | Iteration Time: 4819.16 ms | AR Time: 141.59 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 38 | Forward Time: 1488.80 ms | Backward Time: 3044.17 ms  | Loss: 0.2497 | Iteration Time: 4818.77 ms | AR Time: 120.06 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 39 | Forward Time: 1488.52 ms | Backward Time: 3041.42 ms  | Loss: 0.1823 | Iteration Time: 4817.88 ms | AR Time: 122.44 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 39 | Forward Time: 1497.67 ms | Backward Time: 3037.21 ms  | Loss: 0.1685 | Iteration Time: 4817.96 ms | AR Time: 117.65 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 39 | Forward Time: 1486.47 ms | Backward Time: 3020.56 ms  | Loss: 0.2282 | Iteration Time: 4818.61 ms | AR Time: 145.84 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 39 | Forward Time: 1489.49 ms | Backward Time: 3024.52 ms  | Loss: 0.1354 | Iteration Time: 4818.24 ms | AR Time: 138.62 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 40 | Forward Time: 1486.49 ms | Backward Time: 3025.21 ms  | Loss: 0.2758 | Iteration Time: 4822.60 ms | AR Time: 145.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 40 | Forward Time: 1488.77 ms | Backward Time: 3042.38 ms  | Loss: 0.3099 | Iteration Time: 4823.08 ms | AR Time: 126.24 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 40 | Forward Time: 1497.52 ms | Backward Time: 3042.40 ms  | Loss: 0.2157 | Iteration Time: 4822.96 ms | AR Time: 117.32 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 40 | Forward Time: 1489.66 ms | Backward Time: 3027.12 ms  | Loss: 0.1588 | Iteration Time: 4822.90 ms | AR Time: 140.31 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 41 | Forward Time: 1486.43 ms | Backward Time: 3022.47 ms  | Loss: 0.1757 | Iteration Time: 4817.95 ms | AR Time: 143.56 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 41 | Forward Time: 1497.64 ms | Backward Time: 3037.10 ms  | Loss: 0.1986 | Iteration Time: 4818.07 ms | AR Time: 117.69 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 41 | Forward Time: 1488.98 ms | Backward Time: 3043.10 ms  | Loss: 0.1651 | Iteration Time: 4818.24 ms | AR Time: 120.34 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 41 | Forward Time: 1490.89 ms | Backward Time: 3028.53 ms  | Loss: 0.2114 | Iteration Time: 4816.71 ms | AR Time: 131.33 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 42 | Forward Time: 1486.44 ms | Backward Time: 3020.25 ms  | Loss: 0.2092 | Iteration Time: 4818.19 ms | AR Time: 146.14 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 42 | Forward Time: 1488.41 ms | Backward Time: 3041.63 ms  | Loss: 0.2581 | Iteration Time: 4818.14 ms | AR Time: 122.42 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 42 | Forward Time: 1497.54 ms | Backward Time: 3036.94 ms  | Loss: 0.3231 | Iteration Time: 4818.01 ms | AR Time: 117.88 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 42 | Forward Time: 1490.93 ms | Backward Time: 3025.49 ms  | Loss: 0.1140 | Iteration Time: 4817.29 ms | AR Time: 134.92 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 43 | Forward Time: 1497.12 ms | Backward Time: 3039.07 ms  | Loss: 0.2734 | Iteration Time: 4819.68 ms | AR Time: 117.70 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 43 | Forward Time: 1488.53 ms | Backward Time: 3041.91 ms  | Loss: 0.2198 | Iteration Time: 4820.13 ms | AR Time: 124.02 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 43 | Forward Time: 1486.39 ms | Backward Time: 3021.47 ms  | Loss: 0.2189 | Iteration Time: 4820.55 ms | AR Time: 146.84 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 43 | Forward Time: 1489.74 ms | Backward Time: 3025.42 ms  | Loss: 0.2074 | Iteration Time: 4819.98 ms | AR Time: 138.80 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 44 | Forward Time: 1497.58 ms | Backward Time: 3039.95 ms  | Loss: 0.3320 | Iteration Time: 4820.57 ms | AR Time: 117.34 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 44 | Forward Time: 1488.53 ms | Backward Time: 3042.05 ms  | Loss: 0.1735 | Iteration Time: 4820.63 ms | AR Time: 124.21 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 44 | Forward Time: 1490.46 ms | Backward Time: 3025.97 ms  | Loss: 0.2809 | Iteration Time: 4819.74 ms | AR Time: 137.28 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 44 | Forward Time: 1487.03 ms | Backward Time: 3023.21 ms  | Loss: 0.3166 | Iteration Time: 4821.04 ms | AR Time: 144.30 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 45 | Forward Time: 1490.51 ms | Backward Time: 3026.08 ms  | Loss: 0.2339 | Iteration Time: 4819.32 ms | AR Time: 136.94 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 45 | Forward Time: 1488.38 ms | Backward Time: 3042.16 ms  | Loss: 0.1684 | Iteration Time: 4820.11 ms | AR Time: 123.75 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 45 | Forward Time: 1497.35 ms | Backward Time: 3039.36 ms  | Loss: 0.1977 | Iteration Time: 4819.95 ms | AR Time: 117.47 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 45 | Forward Time: 1487.42 ms | Backward Time: 3021.79 ms  | Loss: 0.1861 | Iteration Time: 4819.12 ms | AR Time: 143.93 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 46 | Forward Time: 1489.51 ms | Backward Time: 3024.76 ms  | Loss: 0.1283 | Iteration Time: 4821.36 ms | AR Time: 141.17 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[94mRank 3 | Step 46 | Forward Time: 1488.45 ms | Backward Time: 3044.40 ms  | Loss: 0.2046 | Iteration Time: 4821.56 ms | AR Time: 122.75 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[91mRank 0 | Step 46 | Forward Time: 1487.23 ms | Backward Time: 3021.81 ms  | Loss: 0.1525 | Iteration Time: 4821.13 ms | AR Time: 146.09 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 46 | Forward Time: 1497.57 ms | Backward Time: 3038.81 ms  | Loss: 0.2174 | Iteration Time: 4821.41 ms | AR Time: 119.01 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 47 | Forward Time: 1489.03 ms | Backward Time: 3041.92 ms  | Loss: 0.2098 | Iteration Time: 4820.39 ms | AR Time: 123.40 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 47 | Forward Time: 1497.59 ms | Backward Time: 3038.68 ms  | Loss: 0.2980 | Iteration Time: 4820.17 ms | AR Time: 117.91 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 47 | Forward Time: 1487.26 ms | Backward Time: 3022.28 ms  | Loss: 0.1922 | Iteration Time: 4820.20 ms | AR Time: 144.51 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 47 | Forward Time: 1489.87 ms | Backward Time: 3026.16 ms  | Loss: 0.1922 | Iteration Time: 4820.54 ms | AR Time: 138.34 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[92mRank 1 | Step 48 | Forward Time: 1490.04 ms | Backward Time: 3026.88 ms  | Loss: 0.2358 | Iteration Time: 4819.46 ms | AR Time: 136.71 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 48 | Forward Time: 1487.28 ms | Backward Time: 3021.81 ms  | Loss: 0.2045 | Iteration Time: 4820.08 ms | AR Time: 144.86 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 48 | Forward Time: 1488.74 ms | Backward Time: 3044.66 ms  | Loss: 0.2932 | Iteration Time: 4820.52 ms | AR Time: 120.93 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[93mRank 2 | Step 48 | Forward Time: 1497.60 ms | Backward Time: 3038.37 ms  | Loss: 0.2704 | Iteration Time: 4820.21 ms | AR Time: 118.03 ms | AR Buffer Size: 12549804.00 KB[0m
+[92mRank 1 | Step 49 | Forward Time: 1490.06 ms | Backward Time: 3026.03 ms  | Loss: 0.2485 | Iteration Time: 4823.88 ms | AR Time: 141.88 ms | AR Buffer Size: 12549804.00 KB[0m
+[91mRank 0 | Step 49 | Forward Time: 1487.45 ms | Backward Time: 3021.86 ms  | Loss: 0.1680 | Iteration Time: 4824.03 ms | AR Time: 148.19 ms | AR Buffer Size: 12549804.00 KB[0m
+[94mRank 3 | Step 49 | Forward Time: 1489.04 ms | Backward Time: 3043.27 ms  | Loss: 0.2362 | Iteration Time: 4824.15 ms | AR Time: 125.37 ms | AR Buffer Size: 12549804.00 KB[0m
+[93mRank 2 | Step 49 | Forward Time: 1497.43 ms | Backward Time: 3038.98 ms  | Loss: 0.2704 | Iteration Time: 4823.85 ms | AR Time: 120.55 ms | AR Buffer Size: 12549804.00 KB[0m
+
+[Epoch 1] Avg Loss: 0.09460898619727232

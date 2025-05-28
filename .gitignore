@@ -1,0 +1,17 @@
+__pycache__
+.DS_Store
+env
+*.egg-info
+.pytest_cache
+Llama*
+wikitext*
+trace*
+stable-diffusion*
+bert*
+wandb
+llama3-finetune
+llama3_finetuned
+*.nsys-rep
+*.sqlite
+alpaca
+.ipynb_checkpoints

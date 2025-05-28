@@ -9,10 +9,10 @@ python setup.py develop
 
 ## Test  
 ```bash  
-NCCL_DEBUG=TRACE torchrun --nproc-per-node=<#nodes> example.py  
+NCCL_DEBUG=TRACE torchrun --nproc-per-node=<num nodes> example.py  
 ```  
 
 ## Using StragglAR for LLM workloads  
 ```bash  
-torchrun --nproc-per-node=<#nodes> dp.py  
+torchrun --nproc-per-node=<num nodes> dp.py  
 ```  
