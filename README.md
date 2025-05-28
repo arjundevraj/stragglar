@@ -2,7 +2,7 @@
 StragglAR is a novel AllReduce algorithm for multi-GPU environments with a persistent straggler.
 Specifically, the multi-GPU environment should have a homogeneous topology and enable any-to-any 
 connectivity, such as today's popular NVSwitched multi-GPU servers. StragglAR can outperform 
-Ring AllReduce, both theoretically (in terms of communication complexity) and practically, 
+Ring AllReduce, both theoretically (in communication complexity) and practically, 
 in these environments when there is a persistent straggler GPU.
 
 ## Usage
