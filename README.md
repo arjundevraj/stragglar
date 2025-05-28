@@ -5,6 +5,8 @@ connectivity, such as today's popular NVSwitched multi-GPU servers. StragglAR ca
 Ring AllReduce, both theoretically (in communication complexity) and practically, 
 in these environments when there is a persistent straggler GPU.
 
+![StragglAR](stragglar.png)
+
 ## Usage
 The following instructions are for files in the `code/` subdirectory. Other subdirectories like `motivation/` (Section 2 experiments, to come) and `implementation/` (end-to-end experiments for distributed ML training, in Appendix F) have their own READMEs.
 
