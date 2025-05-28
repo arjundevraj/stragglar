@@ -8,7 +8,10 @@ in these environments when there is a persistent straggler GPU.
 ![StragglAR](stragglar.png)
 
 ## Usage
-The following instructions are for files in the `stragglar/` subdirectory. Other subdirectories like `motivation/` (Section 2 experiments, to come) and `implementation/` (end-to-end experiments for distributed ML training, in Appendix F) have their own READMEs.
+The following instructions are for files in the `stragglar/` subdirectory. Other subdirectories like `motivation/` (Section 2 experiments, to come) and `implementation/` (end-to-end experiments for distributed ML training, in Appendix F) have their own READMEs. In our experiments, we use CUDA version 12.4 and replicate with multiple different NCCL version, but other CUDA and NCCL versions should be compatible.
+
+Install requirements:
+- `pip install -r requirements.txt`
 
 To synthesize schedules for power-of-2 number of GPUs (n):
 - Run: `python synthesizer_pow2.py <n>` where n is the number of GPUs
