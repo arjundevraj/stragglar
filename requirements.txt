@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+wandb
+peft
+deepspeed
+numpy
