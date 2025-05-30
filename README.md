@@ -32,6 +32,8 @@ To compile AllReduce for 8 GPUs:
 To run AllReduce: 
 - `./allreduce <NUM_BYTES> <ALG> <ITERS> <DELAY>` where NUM_BYTES is the buffer size in bytes, ALG is one of ['stragglar', 'ring', 'rhd', 'direct'] (i.e., [StragglAR, Ring, Recursive Halving and Doubling, Direct]), and delay is the straggler delay time in ms (-1 means we ignore the concept of delay and assume the pre-work, either ReduceScatter for StragglAR or AllReduce for Direct, has already completed)
 
+We are still working on a custom compiler to automate the translation from synthesized schedules to `ncclSend()`/`ncclRecv()` calls for values of n besides those we provide here (4 and 8) &mdash; stay tuned for updates! For now, it must be done manually or by prompting an LLM with the synthesizer outputs. Finally, information on how to swap rank n-1 and the real straggler can be found in the `implementation/` subdirectory.
+
 To obtain the simulation results using the analytical model:
 - Run: `python simulation.py`
 
