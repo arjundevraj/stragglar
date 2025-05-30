@@ -34,3 +34,19 @@ To run AllReduce:
 
 To obtain the simulation results using the analytical model:
 - Run: `python simulation.py`
+
+## Paper
+Find our paper on ArXiv: [Accelerating AllReduce with a Persistent Straggler](https://arxiv.org/abs/2505.23523)!
+
+If you use our code or algorithm, please cite us:
+```
+@misc{devraj2025accelerating,
+      title={Accelerating AllReduce with a Persistent Straggler}, 
+      author={Arjun Devraj and Eric Ding and Abhishek Vijaya Kumar and Robert Kleinberg and Rachee Singh},
+      year={2025},
+      eprint={2505.23523},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.23523}, 
+}
+```
